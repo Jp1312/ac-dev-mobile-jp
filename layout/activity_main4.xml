@@ -11,7 +11,7 @@
         android:id="@+id/textView2"
         android:layout_width="367dp"
         android:layout_height="130dp"
-        android:text="QUAL SEU ANIMAL ESPERITUAL???"
+        android:text="QUAL SEU ANIMAL ESPIRITUAL???"
         android:textColor="#000000"
         android:textSize="30dp"
         app:layout_constraintBottom_toBottomOf="parent"
